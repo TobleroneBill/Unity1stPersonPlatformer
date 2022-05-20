@@ -10,3 +10,5 @@ why its just a level and and bunch of random platforms. I think I mostly enjoyed
 worked, and couldn't find a good substitute for that enthusiasm once I finished making my character movement.
 
 So yeah, spaghetti scripting and low poly but proof is still proof
+
+This is a video where I do my best to explain things lol (IT GOES REALLY WELL 😘 😘 😘 ): https://youtu.be/PhmFnZkPurg
